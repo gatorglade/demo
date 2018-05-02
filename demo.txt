@@ -1,3 +1,0 @@
-#example.txt
-
-Just another text file.
